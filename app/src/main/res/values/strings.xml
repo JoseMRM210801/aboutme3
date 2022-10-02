@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Jose</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hola mi nombre es Jose Manuel Rosiles Malagon.
+    \n \n Me gustan mucho los videojuegos ya que me gustan mucho los seres y las historias
+    \n de fantasia como por ejemplo la saga de God Of War ya que esta es mi favorita
+    \n se puede decir que es de esos videjuegos que desde la primera vez que lo jugue
+    \n me encantaron.
+    \n \n Otra cosa que me gusta mucho es hacer ejercicio hago ejercicio de lunes a viernes
+        \n en un gymnasio al cual voy con un amigo.
+
+    </string>
+    <string name="image_android">Androide</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
